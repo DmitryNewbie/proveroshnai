@@ -1,0 +1,15 @@
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\bin\Debug\net6.0\Проверочная.exe
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\bin\Debug\net6.0\Проверочная.deps.json
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\bin\Debug\net6.0\Проверочная.runtimeconfig.json
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\bin\Debug\net6.0\Проверочная.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\bin\Debug\net6.0\ref\Проверочная.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\bin\Debug\net6.0\Проверочная.pdb
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\obj\Debug\net6.0\Проверочная.csproj.AssemblyReference.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\obj\Debug\net6.0\Проверочная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\obj\Debug\net6.0\Проверочная.AssemblyInfoInputs.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\obj\Debug\net6.0\Проверочная.AssemblyInfo.cs
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\obj\Debug\net6.0\Проверочная.csproj.CoreCompileInputs.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\obj\Debug\net6.0\Проверочная.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\obj\Debug\net6.0\ref\Проверочная.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\obj\Debug\net6.0\Проверочная.pdb
+C:\Users\zimzu\OneDrive\Рабочий стол\Проверочная\obj\Debug\net6.0\Проверочная.genruntimeconfig.cache
